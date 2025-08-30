@@ -22,7 +22,7 @@ vinForm.addEventListener('submit', function(event) {
     loadingSpinner.classList.remove('hidden');
 
     // First, decode the VIN to get vehicle info
-    fetch('http://127.0.0.1:5000/decode_vin', {
+    fetch('/decode_vin', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ vin: vin }),
