@@ -129,7 +129,6 @@ mccabe
 mdit-py-plugins
 mdurl
 mistune
-navigator-updater
 nbclient
 nbconvert
 nbformat
@@ -154,8 +153,6 @@ pathspec
 patsy
 pexpect
 pickleshare
-pillow
-pkce
 pkginfo
 plotly
 pluggy
@@ -295,6 +292,7 @@ zict
 zipp
 zope.interface
 zstandard
+
 
 
 
