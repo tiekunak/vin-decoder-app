@@ -3,6 +3,7 @@ flake8
 Flask
 fonttools
 frozendict
+gunicorn
 regex
 requests
 requests-file
@@ -13,6 +14,7 @@ watchdog
 webencodings
 websocket-client
 Werkzeug
+
 
 
 
