@@ -4,12 +4,6 @@ aioitertools
 aiosignal
 alabaster
 altair
-anaconda-anon-usage
-anaconda-catalogs
-anaconda-client
-anaconda-cloud-auth
-anaconda-navigator
-anaconda-project
 annotated-types
 anyio
 archspec
@@ -43,16 +37,6 @@ charset-normalizer
 click
 cloudpickle
 colorcet
-conda
-conda-build
-conda-content-trust
-conda-libmamba-solver
-conda-pack
-conda-package-handling
-conda-repo-cli
-conda-token
-conda_index
-conda_package_streaming
 constantly
 contourpy
 cookiecutter
@@ -322,3 +306,4 @@ zict
 zipp
 zope.interface
 zstandard
+
