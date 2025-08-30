@@ -129,15 +129,6 @@ mccabe
 mdit-py-plugins
 mdurl
 mistune
-mkl-fft
-mkl-random
-more-itertools
-mpmath
-msgpack
-multidict
-multipledispatch
-mypy
-mypy-extensions
 navigator-updater
 nbclient
 nbconvert
@@ -304,6 +295,7 @@ zict
 zipp
 zope.interface
 zstandard
+
 
 
 
