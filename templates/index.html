@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIN Decoder & Recall Check</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <h1>VIN Decoder & Recall Check</h1>
+    </header>
+    <main>
+        <div class="vin-lookup-container">
+            <p>Enter a 17-digit VIN to get vehicle information and safety recalls.</p>
+            <form id="vin-form">
+                <input type="text" id="vin-input" placeholder="Enter VIN here..." maxlength="17" required>
+                <button type="submit">Decode VIN</button>
+            </form>
+            <div id="loading-spinner" class="hidden"></div>
+            
+            <div id="results-container" class="hidden">
+                <h2>Vehicle Information</h2>
+                <div id="vehicle-details"></div>
+                <h2>Safety Recalls</h2>
+                <div id="recall-details"></div>
+            </div>
+
+            <div id="error-container" class="hidden">
+                <p id="error-message"></p>
+            </div>
+        </div>
+    </main>
+    <script src="/static/script.js"></script>
+</body>
+</html>
