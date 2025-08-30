@@ -218,7 +218,6 @@ Rtree
 s3fs
 scikit-image
 scikit-learn
-Scrapy
 seaborn
 spyder
 spyder-kernels
@@ -271,6 +270,7 @@ zict
 zipp
 zope.interface
 zstandard
+
 
 
 
