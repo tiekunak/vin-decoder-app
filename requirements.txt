@@ -115,7 +115,6 @@ lazy-object-proxy
 lazy_loader
 lckr_jupyterlab_variableinspector
 libarchive-c
-libmambapy
 linkify-it-py
 llvmlite
 lmdb
@@ -306,4 +305,5 @@ zict
 zipp
 zope.interface
 zstandard
+
 
