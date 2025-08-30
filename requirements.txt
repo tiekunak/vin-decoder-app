@@ -215,31 +215,12 @@ rich
 rope
 rpds-py
 Rtree
-ruamel-yaml-conda
-ruamel.yaml
 s3fs
 scikit-image
 scikit-learn
 scipy
 Scrapy
 seaborn
-semver
-Send2Trash
-service-identity
-sip
-smart-open
-smmap
-sniffio
-snowballstemmer
-sortedcontainers
-soupsieve
-Sphinx
-sphinxcontrib-applehelp
-sphinxcontrib-devhelp
-sphinxcontrib-htmlhelp
-sphinxcontrib-jsmath
-sphinxcontrib-qthelp
-sphinxcontrib-serializinghtml
 spyder
 spyder-kernels
 SQLAlchemy
@@ -291,6 +272,7 @@ zict
 zipp
 zope.interface
 zstandard
+
 
 
 
