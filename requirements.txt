@@ -197,7 +197,6 @@ pytz
 pyviz_comms
 pywavelets
 pywin32-ctypes
-pywinpty
 PyYAML
 QDarkStyle
 qstylizer
@@ -292,6 +291,7 @@ zict
 zipp
 zope.interface
 zstandard
+
 
 
 
