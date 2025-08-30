@@ -9,10 +9,6 @@ anyio
 archspec
 argon2-cffi
 argon2-cffi-bindings
-arrow
-astroid
-astropy
-astropy-iers-data
 async-lru
 attrs
 Automat
@@ -268,6 +264,7 @@ zict
 zipp
 zope.interface
 zstandard
+
 
 
 
